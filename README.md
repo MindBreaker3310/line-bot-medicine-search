@@ -1,4 +1,4 @@
-# line-bot-medicine-search
+# 藥頭機器人 line-bot-medicine-search
 
 <img src="https://github.com/MindBreaker3310/line-bot-medicine-search/blob/main/demo.gif" width = "200px" height = "auto">
 

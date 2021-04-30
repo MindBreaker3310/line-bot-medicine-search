@@ -2,7 +2,7 @@
 
 <img src="https://github.com/MindBreaker3310/line-bot-medicine-search/blob/main/demo.gif" width = "200px" height = "auto">
 
-## ▶執行專案
+## ▶使用機器人
 - **[LINE帳號連結]** 
  <img src="https://github.com/MindBreaker3310/line-bot-medicine-search/blob/main/qrcode.png" width = "200px" height = "auto">  
  
